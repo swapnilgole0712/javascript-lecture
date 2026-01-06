@@ -23,8 +23,8 @@
 // let a = 10
 // a /= 3
 
-let a = 10
-a  %= 2
+// let a = 10
+// a  %= 2
 
 
 console.log(a);
